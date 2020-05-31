@@ -2,7 +2,7 @@
 
 [GitHub Action](https://github.com/features/actions) for executing remote ssh commands.
 
-![ssh workflow](.ssh-workflow.png)
+![ssh workflow](ssh-workflow.png)
 
 [![Actions Status](https://github.com/appleboy/ssh-action/workflows/remote%20ssh%20command/badge.svg)](https://github.com/appleboy/ssh-action/actions)
 
