@@ -2,7 +2,7 @@
 
 [GitHub Action](https://github.com/features/actions) for executing remote ssh commands.
 
-![ssh workflow](./images/ssh-workflow.png)
+![ssh workflow](.ssh-workflow.png)
 
 [![Actions Status](https://github.com/appleboy/ssh-action/workflows/remote%20ssh%20command/badge.svg)](https://github.com/appleboy/ssh-action/actions)
 
@@ -122,7 +122,7 @@ Multiple Commands
       ls -al
 ```
 
-![result](./images/output-result.png)
+![result](output-result.png)
 
 Multiple Hosts
 
